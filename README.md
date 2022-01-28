@@ -1,8 +1,7 @@
 # Tableau_Challenge
 
-[sharelink](https://public.tableau.com/views/CitiBikeTrip_16432563004230/NoOfRidesMonth?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-Citi Bike Data Visualization for 11 Months - Feb 2021 to December 2021 for Jersey city
+Citi Bike Data Visualization for 11 Months - Feb 2021 to December 2021 for Jersey city [TableauPublicLinkforPublishedVisualization](https://public.tableau.com/views/CitiBikeTrip_16432563004230/NoOfRidesMonth?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Data Source:
 [Citi Bike Trip Data](https://s3.amazonaws.com/tripdata/index.html) 
