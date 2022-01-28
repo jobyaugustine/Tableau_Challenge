@@ -21,7 +21,7 @@ The datavisualization of the analysis is published at:
 Analysis is done on:
 
 Number of Trips in the Months
- ![Number of Trips in the Months] (/Bike Stations Usage for 11 Months.png). 
+ ![Number of Trips in the Months](/Images/BikeStationsUsagefor11Months.png)
 
 Bike usage by Casual or member bike rider type.
 ![Bike usage by Casual or member bike rider type](/Images/NoOfRidesMonthforRiderType.png)
