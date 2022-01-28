@@ -39,7 +39,7 @@ Number of Trips for Peak hours
 ![Number of Trips for Peak hours](Ridesoneachhouroftheday.png)
 
 Map based on start time 
-![Map based on start time](/Image/BikeStationsMap.png)
+![Map based on start time](/Images/BikeStationsMap.png)
 
 ## Analysis and Conclusion
 There is high usage of citi bike in Summer time, mainly in July, August, September. 
