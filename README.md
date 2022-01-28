@@ -21,25 +21,25 @@ The datavisualization of the analysis is published at:
 Analysis is done on:
 
 Number of Trips in the Months
- ![Number of Trips in the Months](/Images/BikeStationsUsagefor11Months.png)
+ ![Number of Trips in the Months](BikeStationsUsagefor11Months.png)
 
 Bike usage by Casual or member bike rider type.
-![Bike usage by Casual or member bike rider type](/Images/NoOfRidesMonthforRiderType.png)
+![Bike usage by Casual or member bike rider type](NoOfRidesMonthforRiderType.png)
 
 Top 10 highly used bike stations.
-![Top 10 highly used bike stations](/Images/Top10BikeStationsfor11Months_details.png)
+![Top 10 highly used bike stations](Top10BikeStationsfor11Months_details.png)
 
 Highly used bike stations for each month.
-![Highly used bike stations for each month](/Images/TopBikeStationsfor11Months.png)
+![Highly used bike stations for each month](TopBikeStationsfor11Months.png)
 
 Bike usage per Bike type.
-![Bike usage per Bike type](/Images/NoOfRidesRiderandBikeTypes.png)
+![Bike usage per Bike type](NoOfRidesRiderandBikeTypes.png)
 
 Number of Trips for Peak hours
-![Number of Trips for Peak hours](/Images/Ridesoneachhouroftheday.png)
+![Number of Trips for Peak hours](Ridesoneachhouroftheday.png)
 
 Map based on start time 
-![Map based on start time](/Images/BikeStationsMap.png)
+![Map based on start time](BikeStationsMap.png)
 
 ## Analysis and Conclusion
 There is high usage of citi bike in Summer time, mainly in July, August, September. 
