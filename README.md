@@ -20,7 +20,7 @@ The datavisualization of the analysis is published at:
 Analysis is done on:
 
 1) Number of Trips in the Months
- ![Number of Trips in the Months](/Images/NoOfRides_Month.png)
+![Number of Trips in the Months](/Images/NoOfRides_Month.png)
 
 2) Bike usage by Casual or member bike rider type.
 ![Bike usage by Casual or member bike rider type](/Images/NoOfRidesMonthforRiderType.png)
