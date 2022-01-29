@@ -19,25 +19,25 @@ The datavisualization of the analysis is published at:
 
 Analysis is done on:
 
-Number of Trips in the Months
- ![Number of Trips in the Months](/Images/BikeStationsUsagefor11Months.png)
+1) Number of Trips in the Months
+ ![Number of Trips in the Months](/Images/NoOfRides_Month.png)
 
-Bike usage by Casual or member bike rider type.
+2) Bike usage by Casual or member bike rider type.
 ![Bike usage by Casual or member bike rider type](/Images/NoOfRidesMonthforRiderType.png)
 
-Top 10 highly used bike stations.
+3) Top 10 highly used bike stations.
 ![Top 10 highly used bike stations](/Images/Top10BikeStationsfor11Months_details.png)
 
-Highly used bike stations for each month.
+4) Highly used bike stations for each month.
 ![Highly used bike stations for each month](/Images/TopBikeStationsfor11Months.png)
 
-Bike usage per Bike type.
+5) Bike usage per Bike type.
 ![Bike usage per Bike type](/Images/NoOfRidesRiderandBikeTypes.png)
 
-Number of Trips for Peak hours
+6) Number of Trips for Peak hours
 ![Number of Trips for Peak hours](/Images/Ridesoneachhouroftheday.png)
 
-Map based on start time 
+7) Map based on start time 
 ![Map based on start time](/Images/BikeStationsMap.png)
 
 ## Analysis and Conclusion
